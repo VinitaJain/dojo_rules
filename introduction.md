@@ -4,4 +4,4 @@ I love Javascript
 #Deadly Skills
 *Javascript
 *GIT
-*Rebasing
+*Rebase
